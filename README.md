@@ -2,10 +2,9 @@
 _OBS: Hänger ihop med detta repo:
 https://github.com/anders0228/ETB310_wholesalerDemo_
 
-## Ett litet exempel på en CRUD WCF-service. 
+## Ett exempel på en WCF-service med CRUD-funktionalitet
 
 Gör såhär: 
-
 ### 1: Ladda ner och packa upp båda web-servicearna 
 
 
