@@ -1,4 +1,7 @@
 # ETB310_WarehouseDemo
+_OBS: Hänger ihop med detta repo:
+https://github.com/anders0228/ETB310_wholesalerDemo_
+
 Ett litet exempel på en CRUD WCF-service. (använder sig av repositoryt ETB310_wholesalerDemo)
  
 
